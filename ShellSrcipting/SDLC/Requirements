@@ -1,0 +1,15 @@
+ 
+High Level Requirement: -
+ID	    Description
+HL_01	   Input and Output will be displayed on screen
+HL_02	   Memory Unit for storage
+HL_03	   Camera lens to take photo and give solution
+HL_04	   Key layout will be within screen
+
+Low Level Requirement: -
+ID	    Description
+LL_01	  displays input numbers, commands and results in the amoled screen
+LL_02	  Processor chip to perform calculation and to store outputs, where we can see the history
+LL_03	  The key layout consists of all the numbers , functions and a clear button to clear everything on the screen
+
+                                                                   

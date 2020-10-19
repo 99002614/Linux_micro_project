@@ -1,0 +1,4 @@
+NAME,EMAIL,GIT-URL,CLONE-STATUS,BUILD-STATUS,CPPCHECK,VALGRIND
+Sharath,sharath@user.com,https://github.com/99002614/SDLC,Clone Success,build Success,1,0 
+Rajini,rajini@user.com,https://github.com/99002566/final,Clone Success,build Success,1,0 
+Deeksha,deeksha@user.com,https://github.com/99002664/Submission,Clone Success,build Success,1,0 
